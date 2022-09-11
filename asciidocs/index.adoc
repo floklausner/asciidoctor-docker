@@ -1,5 +1,5 @@
-= My Project
-firstname lastname
+= Üben für Prüfung
+Florian Klausner
 1.0.0, yyyy-mm-dd: Some notes
 ifndef::imagesdir[:imagesdir: images]
 //:toc-placement!:  // prevents the generation of the doc at this position, so it can be printed afterwards
@@ -14,11 +14,46 @@ ifdef::backend-html5[]
 // print the toc here (not at the default position)
 //toc::[]
 
-== Header 1
-mamamia
+== Pflichtenheft
 
+[cols="1,1"]
+|===
+|Ausganssituation
+|Beschreibung der Organisation
 
-=== Header 2
+|Istzustand
+|Beschreibung des IstZustandes der Abteilung, in der
+das neue System eingeführt werden soll
 
-asdadsdad
+|Problemstellung
+|Beschreibung der Probleme die es beim IstZustand gibt
+
+a|Aufgabenstellung (Soll Zustand)
+
+* Funktionale Anforderungen
+* Nicht Funktionale Anforderungen
+|Die Aufgabenstellung beschreibt das Ergebnis (die Leistung)
+und wird in Funktionale und Nicht Funktionale anforderungen
+unterteilt
+
+|Zielsetzung
+|Beschreibung der Leistungswirkung
+
+|Mengengerüst
+|z.B. Wieviele Rechnungen pro Tag
+
+|Rahmenbedingungen
+|Was gibt der Kunde vor z.B Programmiersprache, Hardware
+
+|Schnittstellenübersicht
+|
+
+|Lieferumfang
+|Was bekommt der Kunde und in welcher Form
+(z.B. als Github-Repo)
+
+|Abnahmekriterien
+|"Was muss erfüllt sein damit das Projekt fertig ist?"
+
+|===
 
