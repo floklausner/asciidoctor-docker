@@ -57,3 +57,62 @@ unterteilt
 
 |===
 
+== Pflichtenheft Beispiel
+
+[cols="1,1"]
+|===
+
+|Ausganssituation
+|Unser Tierheim p>egt herrenlose sowie ausgesetzte Klein-ere (Hunde, Katzen, Vögel, Meerschweinchen, usw.).
+Das Tierheim Enanziert sich einerseits aus Spendengeldern, aber auch von Subven-onen der öffentlichen Hand.
+
+|Istzustand
+|In der Verwaltung unseres Tierheims arbeiten drei Personen.
+Die Vorgänge (Annahme und Abgabe von Tieren, Einkauf von Fuer usw) werden derzeit in der EDV dokumen-ert.
+Dazu werden EXCEL-Sheets eingesetzt. Die Spender und die ö*entliche Hand werden über die Verwendung ihrer Gelder informiert.
+
+|Problemstellung
+|Mit den derzei-gen Miel (Excel und Papierordner) ist die Rechenscha.slegung sehr mühsam.
+
+a|Aufgabenstellung (Soll-Zustand)
+
+* Funktionale Anforderungen
+* Nicht Funktionale Anforderungen
+a|Funktionale Anforderungen:
+
+* Entgegennahme von Tieren
+* Abgabe von Tieren
+* Dokumenta-on der eingenommenen Spenden
+** Dokumenta-on der Verwendung der Spendengelder
+**  Dokumentation von ärztlicher Betreuung von Tieren Dokumenta-on der P>ege (Füerung) der Tiere
+
+Nicht-Funk-onale Anforderungen:
+
+* Zuverlässigkeit (Robustheit, ...)
+* Usability (Erlernbarkeit, Bedienbarkeit, ...)
+* EffizienzanforderungFunktioonalität (Richtigkeit,
+** Sicherheit, Angemessenheit)
+
+|Zielsetzung
+|Die Spender und die öffentliche Hand sollen weiter Geld zur Verfügung stellen (da sie wissen, daß es wie versprochen verwendet wird)
+
+|Mengengerüst
+|xxx
+
+|Rahmenbedingungen
+|keine
+
+|Schnittstellenübersicht
+|
+
+|Lieferumfang
+|Webserver mit funktionierendem Web-Auftritt +
+Github-Repo +
+elektron. Doku +
+Einschulung 10h
+
+|Abnahmekriterien
+|
+
+|===
+
